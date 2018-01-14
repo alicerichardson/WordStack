@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                 String word = line.trim();
                 /**
                  **
-                 **  YOUR CODE GOES HERE
+                 **  add to wordlist
                  **
                  **/
             }
