@@ -38,6 +38,7 @@ import java.util.Stack;
 public class MainActivity extends AppCompatActivity {
 
     //testing for git
+    //more testing for git
 
     private static final int WORD_LENGTH = 5;
     public static final int LIGHT_BLUE = Color.rgb(176, 200, 255);
@@ -142,6 +143,7 @@ public class MainActivity extends AppCompatActivity {
          **  YOUR CODE GOES HERE
          **
          **/
+
         return true;
     }
 
